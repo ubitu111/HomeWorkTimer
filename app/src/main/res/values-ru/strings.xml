@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HomeWorkTimer</string>
+    <string name="button_start_timer_text">Запуск таймера</string>
+    <string name="notification_title">Ваш таймер!</string>
+    <string name="button_pause_timer_text">Пауза</string>
+    <string name="button_reset_timer_text">Сброс</string>
+</resources>

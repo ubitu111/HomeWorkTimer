@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HomeWorkTimer</string>
+    <string name="button_start_timer_text">Start timer</string>
+    <string name="button_pause_timer_text">Pause timer</string>
+    <string name="button_reset_timer_text">Reset timer</string>
+    <string name="notification_title">Your Timer!</string>
+</resources>
